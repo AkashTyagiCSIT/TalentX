@@ -1,9 +1,9 @@
 💼 TalentX
 
-A full-stack job portal built with MERN stack featuring resume upload, job applications, and recruiter dashboards
+A full-stack  Job Portal built with MERN stack featuring resume upload, job applications, and recruiter dashboards
 
        
-A modern, full-stack Job Portal built with the powerful MERN stack — enabling both job seekers (students) and recruiters to connect seamlessly. With a clean, animated, and responsive UI, this platform allows users to explore opportunities, post jobs, and manage applications with ease.
+A modern, full-stack  TalentX(Job Portal) built with the powerful MERN stack — enabling both job seekers (students) and recruiters to connect seamlessly. With a clean, animated, and responsive UI, this platform allows users to explore opportunities, post jobs, and manage applications with ease.
 
 ✨ Features
 
@@ -60,8 +60,8 @@ JWT (JSON Web Token) – Authentication and authorization
 
 📁 Project Structure
 
-job-portal
-job-portal/
+ TalentX
+ TalentX/
 ├── client/
 │   ├── src/
 │   ├── public/
@@ -90,8 +90,7 @@ Protected routes for job posting, applications, and dashboards
 ⚙️ Getting Started
 
 1. Clone the Repository
-git clone https://github.com/mscbuild/job-portal-app.git
-cd job-portal-app
+cd  TalentX
 2. Setup Environment Variables
 Create a .env file inside the server/ directory with:
 
