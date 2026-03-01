@@ -103,25 +103,23 @@ CLOUDINARY_SECRET_KEY = ""
 CLOUDINARY_NAME = ""
 
 NODE_ENV === ""
-3. Install Dependencies
-# Install frontend packages
-cd client
-npm install
+# 3. Run the Application
 
-# Install backend packages
-cd ../server
-npm install
-4. Run the Application
+```bash
 # Start backend server
-cd server
+cd Server
+npm install
 npm run dev
 
-# Start frontend dev server
-cd ../client
-npm start
-Open in browser:
-Frontend → http://localhost:5137
-Backend → http://localhost:5000
+# Start frontend dev server (in new terminal)
+cd Client
+npm install
+npm run dev
+```
+
+### Open in browser:
+- Frontend → http://localhost:5173
+- Backend → http://localhost:5000
 Website Link > https://job-portal-opal-nu.vercel.app/
 
 📜 License
